@@ -1,13 +1,26 @@
 # ChatBot
 
-The Application is Dockerized so run the following command:
+## clone:
+``` git clone  https://github.com/anajikadam/Chatbot.git ```
 
-Build:
+## create Virtual Environment:
+``` cd Chatbot ```
 
-``` docker-compose up -d --build ```
+``` python -m venv Venv```
 
-Run: 
-``` docker-compose up ```
+``` Venv\Scripts\activate ```
+
+``` pip install -r requirements.txt ```
+
+## Run: 
+``` python app.py ```
+
 ## Screenshot
-
-![](resources/bot.png)
+![](FlaskApp/1.PNG)
+![](FlaskApp/2.PNG)
+![](FlaskApp/3.PNG)
+![](FlaskApp/4.PNG)
+![](FlaskApp/5.PNG)
+![](FlaskApp/6.PNG)
+![](FlaskApp/7.PNG)
+![](FlaskApp/8.PNG)
