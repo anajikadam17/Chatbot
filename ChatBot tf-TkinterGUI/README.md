@@ -1,8 +1,8 @@
 # ChatBot tf-TkinterGUI
 
 ## Tkinter GUI Screens
-<br>
-<br>
+![base](IMG/6.PNG?raw=true)
+_____
 ![base](IMG/1.PNG?raw=true)
 ----
 ![base](IMG/2.PNG?raw=true)
